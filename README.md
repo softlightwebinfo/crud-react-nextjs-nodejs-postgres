@@ -10,7 +10,3 @@ Arrancar el proyecto
 - yarn dev
 // arrancar en production 
 -yarn build && yarn start
-# crud-react-nextjs-nodejs-postgres
-# crud-react-nextjs-nodejs-postgres
-# crud-react-nextjs-nodejs-postgres
-# crud-react-nextjs-nodejs-postgres
